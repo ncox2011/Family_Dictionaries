@@ -1,0 +1,11 @@
+C:\Users\natas\workspace\csharp\exercises\family_dictionary\obj\Debug\netcoreapp2.1\family_dictionary.csprojAssemblyReference.cache
+C:\Users\natas\workspace\csharp\exercises\family_dictionary\obj\Debug\netcoreapp2.1\family_dictionary.csproj.CoreCompileInputs.cache
+C:\Users\natas\workspace\csharp\exercises\family_dictionary\obj\Debug\netcoreapp2.1\family_dictionary.AssemblyInfoInputs.cache
+C:\Users\natas\workspace\csharp\exercises\family_dictionary\obj\Debug\netcoreapp2.1\family_dictionary.AssemblyInfo.cs
+C:\Users\natas\workspace\csharp\exercises\family_dictionary\bin\Debug\netcoreapp2.1\family_dictionary.deps.json
+C:\Users\natas\workspace\csharp\exercises\family_dictionary\bin\Debug\netcoreapp2.1\family_dictionary.runtimeconfig.json
+C:\Users\natas\workspace\csharp\exercises\family_dictionary\bin\Debug\netcoreapp2.1\family_dictionary.runtimeconfig.dev.json
+C:\Users\natas\workspace\csharp\exercises\family_dictionary\bin\Debug\netcoreapp2.1\family_dictionary.dll
+C:\Users\natas\workspace\csharp\exercises\family_dictionary\bin\Debug\netcoreapp2.1\family_dictionary.pdb
+C:\Users\natas\workspace\csharp\exercises\family_dictionary\obj\Debug\netcoreapp2.1\family_dictionary.dll
+C:\Users\natas\workspace\csharp\exercises\family_dictionary\obj\Debug\netcoreapp2.1\family_dictionary.pdb
